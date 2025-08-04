@@ -17,3 +17,4 @@
 [submodule "windows-msi/vcpkg-ports/engine"]
 	path = windows-msi/vcpkg-ports/engine
 	url = https://github.com/gost-engine/engine
+	branch = master
