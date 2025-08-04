@@ -14,3 +14,6 @@
 	path = src/ovpn-dco
 	url = https://github.com/OpenVPN/ovpn-dco.git
 	branch = master
+[submodule "windows-msi/vcpkg-ports/engine"]
+	path = windows-msi/vcpkg-ports/engine
+	url = https://github.com/gost-engine/engine
