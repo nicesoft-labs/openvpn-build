@@ -1,4 +1,4 @@
-OpenVPN project buildsystems
+OpenVPN project buildsystems 2.6 GOST
 #####################################################
 .. image:: https://github.com/OpenVPN/openvpn-build/actions/workflows/build.yaml/badge.svg
   :target: https://github.com/OpenVPN/openvpn-build/actions
